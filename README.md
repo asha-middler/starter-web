@@ -16,7 +16,7 @@ To any server, just example!
 
 ## How to Contribute
 
-Please fork this and issue pull request for review
+Please fork this and issue pull request for review, updated...
 
 ### Copyright
 
